@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Andromofid/Random_name/static/css/main.0ff016c9.css",
-    "main.js": "/Andromofid/Random_name/static/js/main.30f737ac.js",
-    "index.html": "/Andromofid/Random_name/index.html",
-    "main.0ff016c9.css.map": "/Andromofid/Random_name/static/css/main.0ff016c9.css.map",
-    "main.30f737ac.js.map": "/Andromofid/Random_name/static/js/main.30f737ac.js.map"
+    "main.css": "/Random_name/static/css/main.0ff016c9.css",
+    "main.js": "/Random_name/static/js/main.30f737ac.js",
+    "index.html": "/Random_name/index.html",
+    "main.0ff016c9.css.map": "/Random_name/static/css/main.0ff016c9.css.map",
+    "main.30f737ac.js.map": "/Random_name/static/js/main.30f737ac.js.map"
   },
   "entrypoints": [
     "static/css/main.0ff016c9.css",
